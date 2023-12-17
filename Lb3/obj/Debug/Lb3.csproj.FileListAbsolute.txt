@@ -1,0 +1,3 @@
+A:\programming\Lb3\Lb3\obj\Debug\Lb3.csproj.AssemblyReference.cache
+A:\programming\Lb3\Lb3\obj\Debug\Lb3.csproj.SuggestedBindingRedirects.cache
+A:\programming\Lb3\Lb3\obj\Debug\Lb3.csproj.CoreCompileInputs.cache
